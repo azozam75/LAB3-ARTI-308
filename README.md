@@ -1,10 +1,15 @@
 ARTI308 - Lab 3 Assignment: Exploratory Data Analysis (EDA)
+
 Housing Price Dataset Analysis
+
 Student Name: [Abdulaziz Mohammad AL-Khlawi]
+
 Student ID: [2240006095]
+
 Date: [2/11/2026]
 
 Dataset Description
+
 This dataset contains information about housing prices and their characteristics. The goal is to understand the factors that influence house prices through exploratory data analysis.
 
 Features:
